@@ -4,6 +4,9 @@
 ## Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica. ##
 
 
+[📕Clique aqui para ler o artigo](https://github.com/FabioAgroTechnology/artigos-com-ia/blob/main/Artigo%20de%20Python.pdf)
+
+
 # 💻 Tecnologias utilizadas no projeto #
 
 
