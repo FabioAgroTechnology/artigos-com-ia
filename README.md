@@ -1,11 +1,10 @@
 # Projeto artigo técnico gerado por I.A.s #
 ---------
 
-
 ## Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica. ##
 
 
-## 💻 Tecnologias utilizadas no projeto ##
+# 💻 Tecnologias utilizadas no projeto #
 
 
 * [ChatGPT](https://chatgpt.com/?oai-dm=1)  - para título e conteúdo
@@ -23,7 +22,7 @@
 ChatGPT:
 
 | Ação                      |	                    prompt |
-|-------------------------------- | ----------------------------------- |
+| -------------------------------- | ----------------------------------- |
 | Título |	Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas |
 | Conteúdo |	Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico
 
